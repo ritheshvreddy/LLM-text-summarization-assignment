@@ -10,8 +10,8 @@ This project implements an LLM-based text summarization system on user reviews f
 
 ## How to Run
 
-1. Open assignment.ipynb in Google Colab
-2. Upload reviews.txt when prompted
+1. Open LLM_text_summarization.ipynb in Google Colab
+2. Upload reviews.txt
 3. Run all cells to reproduce results
 
 ## Model Used
