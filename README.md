@@ -4,7 +4,7 @@ This project implements an LLM-based text summarization system on user reviews f
 
 ## Files
 
-- assignment.ipynb : Google Colab notebook containing the complete code
+- LLM_text_summarization.ipynb : Google Colab notebook containing the complete code
 - LLM_Text_Summarization_Report.pdf : Final project report
 - reviews.txt : Dataset used for summarization
 
